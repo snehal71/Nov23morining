@@ -1,0 +1,24 @@
+2026-04-10 18:00:17,984 [main] INFO public static Logger logger - Welcome to coverFox Testing
+2026-04-10 18:00:22,670 [main] WARN public static Logger logger - Launching Browser
+2026-04-10 18:00:22,704 [main] INFO public static Logger logger - getLogger
+2026-04-10 18:00:23,410 [main] INFO public static Logger logger - clickongender
+2026-04-10 18:00:24,000 [main] INFO public static Logger logger - clickonNextButtonHealthPages
+2026-04-10 18:00:25,983 [main] INFO public static Logger logger - handleAgeDropDown
+2026-04-10 18:00:26,042 [main] INFO public static Logger logger - clickonextButtonofmembersdetailspages
+2026-04-10 18:00:26,477 [main] INFO public static Logger logger - enterpincode
+2026-04-10 18:00:27,095 [main] INFO public static Logger logger - entermobilenumber
+2026-04-10 18:00:27,389 [main] INFO public static Logger logger - clickoncontinuebutton
+2026-04-10 18:00:39,608 [main] INFO public static Logger logger - validate coverFoxPlanes
+2026-04-10 18:00:39,854 [main] INFO public static Logger logger - Browser Close
+2026-04-10 18:06:58,114 [main] INFO 23NOV24_coverFOX - Welcome to coverFox Testing
+2026-04-10 18:07:01,090 [main] WARN 23NOV24_coverFOX - Launching Browser
+2026-04-10 18:07:01,165 [main] INFO 23NOV24_coverFOX - getLogger
+2026-04-10 18:07:01,830 [main] INFO 23NOV24_coverFOX - clickongender
+2026-04-10 18:07:02,439 [main] INFO 23NOV24_coverFOX - clickonNextButtonHealthPages
+2026-04-10 18:07:04,522 [main] INFO 23NOV24_coverFOX - handleAgeDropDown
+2026-04-10 18:07:04,738 [main] INFO 23NOV24_coverFOX - clickonextButtonofmembersdetailspages
+2026-04-10 18:07:05,489 [main] INFO 23NOV24_coverFOX - enterpincode
+2026-04-10 18:07:05,813 [main] INFO 23NOV24_coverFOX - entermobilenumber
+2026-04-10 18:07:06,091 [main] INFO 23NOV24_coverFOX - clickoncontinuebutton
+2026-04-10 18:07:18,320 [main] INFO 23NOV24_coverFOX - validate coverFoxPlanes
+2026-04-10 18:07:18,631 [main] INFO 23NOV24_coverFOX - Browser Close
