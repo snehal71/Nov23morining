@@ -106,7 +106,7 @@ public class CoverFoxTestUsingTestNG extends Base {
  
  public void BrowserClose() throws InterruptedException {
 	 Reporter.log("close Browser", true);
-	 logger.info("Browser Close");
+	  logger.info("Browser Close");
 	 closeBroserwindow();
  }
 }
