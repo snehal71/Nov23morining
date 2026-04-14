@@ -22,3 +22,27 @@
 2026-04-10 18:07:06,091 [main] INFO 23NOV24_coverFOX - clickoncontinuebutton
 2026-04-10 18:07:18,320 [main] INFO 23NOV24_coverFOX - validate coverFoxPlanes
 2026-04-10 18:07:18,631 [main] INFO 23NOV24_coverFOX - Browser Close
+2026-04-14 17:47:28,562 [main] INFO 23NOV24_coverFOX - Welcome to coverFox Testing
+2026-04-14 17:47:34,601 [main] WARN 23NOV24_coverFOX - Launching Browser
+2026-04-14 17:47:34,719 [main] INFO 23NOV24_coverFOX - getLogger
+2026-04-14 17:47:36,124 [main] INFO 23NOV24_coverFOX - clickongender
+2026-04-14 17:47:36,770 [main] INFO 23NOV24_coverFOX - clickonNextButtonHealthPages
+2026-04-14 17:47:39,498 [main] INFO 23NOV24_coverFOX - handleAgeDropDown
+2026-04-14 17:47:39,666 [main] INFO 23NOV24_coverFOX - clickonextButtonofmembersdetailspages
+2026-04-14 17:47:40,290 [main] INFO 23NOV24_coverFOX - enterpincode
+2026-04-14 17:47:40,553 [main] INFO 23NOV24_coverFOX - entermobilenumber
+2026-04-14 17:47:40,709 [main] INFO 23NOV24_coverFOX - clickoncontinuebutton
+2026-04-14 17:47:52,877 [main] INFO 23NOV24_coverFOX - validate coverFoxPlanes
+2026-04-14 17:47:53,306 [main] INFO 23NOV24_coverFOX - Browser Close
+2026-04-15 00:49:47,949 [main] INFO 23NOV24_coverFOX - Welcome to coverFox Testing
+2026-04-15 00:49:52,927 [main] WARN 23NOV24_coverFOX - Launching Browser
+2026-04-15 00:49:52,983 [main] INFO 23NOV24_coverFOX - getLogger
+2026-04-15 00:49:53,955 [main] INFO 23NOV24_coverFOX - clickongender
+2026-04-15 00:49:54,839 [main] INFO 23NOV24_coverFOX - clickonNextButtonHealthPages
+2026-04-15 00:49:58,175 [main] INFO 23NOV24_coverFOX - handleAgeDropDown
+2026-04-15 00:49:58,374 [main] INFO 23NOV24_coverFOX - clickonextButtonofmembersdetailspages
+2026-04-15 00:49:58,979 [main] INFO 23NOV24_coverFOX - enterpincode
+2026-04-15 00:49:59,237 [main] INFO 23NOV24_coverFOX - entermobilenumber
+2026-04-15 00:49:59,595 [main] INFO 23NOV24_coverFOX - clickoncontinuebutton
+2026-04-15 00:50:12,559 [main] INFO 23NOV24_coverFOX - validate coverFoxPlanes
+2026-04-15 00:50:12,917 [main] INFO 23NOV24_coverFOX - Browser Close
