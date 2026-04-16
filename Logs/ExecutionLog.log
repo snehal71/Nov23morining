@@ -46,3 +46,70 @@
 2026-04-15 00:49:59,595 - 23NOV24_coverFOX -INFO - clickoncontinuebutton
 2026-04-15 00:50:12,559 - 23NOV24_coverFOX -INFO - validate coverFoxPlanes
 2026-04-15 00:50:12,917 - 23NOV24_coverFOX -INFO - Browser Close
+2026-04-15 01:13:23,329 - 23NOV24_coverFOX -INFO - Welcome to coverFox Testing
+2026-04-15 01:13:27,706 - 23NOV24_coverFOX -WARN - Launching Browser
+2026-04-15 01:13:27,775 - 23NOV24_coverFOX -INFO - getLogger
+2026-04-15 01:13:28,736 - 23NOV24_coverFOX -INFO - clickongender
+2026-04-15 01:13:29,399 - 23NOV24_coverFOX -INFO - clickonNextButtonHealthPages
+2026-04-15 01:13:31,819 - 23NOV24_coverFOX -INFO - handleAgeDropDown
+2026-04-15 01:13:31,953 - 23NOV24_coverFOX -INFO - clickonextButtonofmembersdetailspages
+2026-04-15 01:13:32,490 - 23NOV24_coverFOX -INFO - enterpincode
+2026-04-15 01:13:32,804 - 23NOV24_coverFOX -INFO - entermobilenumber
+2026-04-15 01:13:33,012 - 23NOV24_coverFOX -INFO - clickoncontinuebutton
+2026-04-15 01:13:45,393 - 23NOV24_coverFOX -INFO - validate coverFoxPlanes
+2026-04-15 01:13:45,719 - 23NOV24_coverFOX -INFO - Browser Close
+2026-04-15 01:14:32,393 - 23NOV24_coverFOX -INFO - Welcome to coverFox Testing
+2026-04-15 01:14:36,140 - 23NOV24_coverFOX -WARN - Launching Browser
+2026-04-15 01:14:36,243 - 23NOV24_coverFOX -INFO - getLogger
+2026-04-15 01:14:37,664 - 23NOV24_coverFOX -INFO - clickongender
+2026-04-15 01:14:37,853 - 23NOV24_coverFOX -INFO - clickonNextButtonHealthPages
+2026-04-15 01:14:39,889 - 23NOV24_coverFOX -INFO - handleAgeDropDown
+2026-04-15 01:14:40,118 - 23NOV24_coverFOX -INFO - clickonextButtonofmembersdetailspages
+2026-04-15 01:15:40,182 - 23NOV24_coverFOX -INFO - Welcome to coverFox Testing
+2026-04-15 01:15:44,061 - 23NOV24_coverFOX -WARN - Launching Browser
+2026-04-15 01:15:44,172 - 23NOV24_coverFOX -INFO - getLogger
+2026-04-15 01:15:45,119 - 23NOV24_coverFOX -INFO - clickongender
+2026-04-15 01:15:45,787 - 23NOV24_coverFOX -INFO - clickonNextButtonHealthPages
+2026-04-15 01:15:47,932 - 23NOV24_coverFOX -INFO - handleAgeDropDown
+2026-04-15 01:15:48,117 - 23NOV24_coverFOX -INFO - clickonextButtonofmembersdetailspages
+2026-04-15 01:15:48,744 - 23NOV24_coverFOX -INFO - enterpincode
+2026-04-15 01:15:48,983 - 23NOV24_coverFOX -INFO - entermobilenumber
+2026-04-15 01:15:49,124 - 23NOV24_coverFOX -INFO - clickoncontinuebutton
+2026-04-15 01:16:01,296 - 23NOV24_coverFOX -INFO - validate coverFoxPlanes
+2026-04-15 01:16:01,670 - 23NOV24_coverFOX -INFO - Browser Close
+2026-04-17 00:27:57,128 - 23NOV24_coverFOX -INFO - Welcome to coverFox Testing
+2026-04-17 00:28:07,618 - 23NOV24_coverFOX -WARN - Launching Browser
+2026-04-17 00:28:07,710 - 23NOV24_coverFOX -INFO - getLogger
+2026-04-17 00:28:08,983 - 23NOV24_coverFOX -INFO - clickongender
+2026-04-17 00:28:09,801 - 23NOV24_coverFOX -INFO - clickonNextButtonHealthPages
+2026-04-17 00:28:11,578 - 23NOV24_coverFOX -INFO - handleAgeDropDown
+2026-04-17 00:28:11,828 - 23NOV24_coverFOX -INFO - clickonextButtonofmembersdetailspages
+2026-04-17 00:28:12,550 - 23NOV24_coverFOX -INFO - enterpincode
+2026-04-17 00:28:12,826 - 23NOV24_coverFOX -INFO - entermobilenumber
+2026-04-17 00:28:13,107 - 23NOV24_coverFOX -INFO - clickoncontinuebutton
+2026-04-17 00:28:25,718 - 23NOV24_coverFOX -INFO - validate coverFoxPlanes
+2026-04-17 00:28:25,998 - 23NOV24_coverFOX -INFO - Browser Close
+2026-04-17 00:30:00,256 - 23NOV24_coverFOX -INFO - Welcome to coverFox Testing
+2026-04-17 00:30:03,481 - 23NOV24_coverFOX -WARN - Launching Browser
+2026-04-17 00:30:03,582 - 23NOV24_coverFOX -INFO - getLogger
+2026-04-17 00:30:04,978 - 23NOV24_coverFOX -INFO - clickongender
+2026-04-17 00:30:05,633 - 23NOV24_coverFOX -INFO - clickonNextButtonHealthPages
+2026-04-17 00:30:07,915 - 23NOV24_coverFOX -INFO - handleAgeDropDown
+2026-04-17 00:30:08,127 - 23NOV24_coverFOX -INFO - clickonextButtonofmembersdetailspages
+2026-04-17 00:30:08,701 - 23NOV24_coverFOX -INFO - enterpincode
+2026-04-17 00:30:08,989 - 23NOV24_coverFOX -INFO - entermobilenumber
+2026-04-17 00:30:09,182 - 23NOV24_coverFOX -INFO - clickoncontinuebutton
+2026-04-17 00:30:21,316 - 23NOV24_coverFOX -INFO - validate coverFoxPlanes
+2026-04-17 00:30:21,545 - 23NOV24_coverFOX -INFO - Browser Close
+2026-04-17 00:30:48,149 - 23NOV24_coverFOX -INFO - Welcome to coverFox Testing
+2026-04-17 00:30:51,311 - 23NOV24_coverFOX -WARN - Launching Browser
+2026-04-17 00:30:51,404 - 23NOV24_coverFOX -INFO - getLogger
+2026-04-17 00:30:53,292 - 23NOV24_coverFOX -INFO - clickongender
+2026-04-17 00:30:53,941 - 23NOV24_coverFOX -INFO - clickonNextButtonHealthPages
+2026-04-17 00:30:55,234 - 23NOV24_coverFOX -INFO - handleAgeDropDown
+2026-04-17 00:30:55,408 - 23NOV24_coverFOX -INFO - clickonextButtonofmembersdetailspages
+2026-04-17 00:30:56,015 - 23NOV24_coverFOX -INFO - enterpincode
+2026-04-17 00:30:56,267 - 23NOV24_coverFOX -INFO - entermobilenumber
+2026-04-17 00:30:56,488 - 23NOV24_coverFOX -INFO - clickoncontinuebutton
+2026-04-17 00:31:09,531 - 23NOV24_coverFOX -INFO - validate coverFoxPlanes
+2026-04-17 00:31:09,796 - 23NOV24_coverFOX -INFO - Browser Close
